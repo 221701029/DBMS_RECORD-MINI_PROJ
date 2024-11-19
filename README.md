@@ -1,0 +1,2 @@
+# DBMS_RECORD-MINI_PROJ
+Roll.no:221701029 Name:Keerthana V DATABASE MANAGEMENT SYSTEMS Record  &amp;  MINI PROJECT - BLOOD DONATION MANAGEMENT SYSTEM (                                     
